@@ -1,3 +1,9 @@
+# Ruby on Rails Tutorial: 1st applicatoin
+
+This is the first application for the
+[*Ruby on Rails Tutorial*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
